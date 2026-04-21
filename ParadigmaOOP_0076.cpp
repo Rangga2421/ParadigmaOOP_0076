@@ -16,3 +16,5 @@ public :
 
 }; // batas akhir kelas
 
+int main(){
+    
