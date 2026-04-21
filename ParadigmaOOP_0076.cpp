@@ -22,4 +22,5 @@ int main(){
     mhs1.nama = "Rangga Ardi S";
     mhs1.nilai = 100;
 
- 
+    mhs1.printData ();
+}  
