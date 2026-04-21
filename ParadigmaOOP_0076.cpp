@@ -14,3 +14,5 @@ public :
         cout << "NILAI : " << nilai << endl;
     }
 
+}; // batas akhir kelas
+
