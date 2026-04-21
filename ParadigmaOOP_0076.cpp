@@ -17,4 +17,5 @@ public :
 }; // batas akhir kelas
 
 int main(){
+    Mahasiswa mhs1;
     
